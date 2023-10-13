@@ -13,6 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 
+[![Blog](https://img.shields.io/website?label=MyPortfolio.com&style=for-the-badge&url=https://my-repository-r013gzxxg-gabrielnbs.vercel.app/target=__blank)](https://my-repository-r013gzxxg-gabrielnbs.vercel.app/)
+
 <div align="center">
 <a href="https://github.com/GabrielNBS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNBS&layout=compact&langs_count=7&theme=dracula"/>
