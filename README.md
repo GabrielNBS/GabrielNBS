@@ -5,7 +5,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Egenheiro Front-end na <a href="https://new.lms.ebaconline.com.br/dashboard"> EBAC - Escola britânica de artes criativas e tecnologia </a>
+- 🎓 Formado Egenheiro Front-end na <a href="https://new.lms.ebaconline.com.br/dashboard"> EBAC - Escola britânica de artes criativas e tecnologia </a>
 - 🌱 &nbsp; Em constante aprendizado e desenvolvimento
 
 [![Blog](https://img.shields.io/website?label=MyPortfolio.com&style=for-the-badge&url=https://my-repository-r013gzxxg-gabrielnbs.vercel.app/)](https://my-repository-r013gzxxg-gabrielnbs.vercel.app/)
